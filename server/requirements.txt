@@ -1,0 +1,10 @@
+click==6.7
+Flask==0.12.2
+grs==0.7.0
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+python-dateutil==1.5
+ujson==1.35
+urllib3==1.22
+Werkzeug==0.12.2
